@@ -1,5 +1,5 @@
 # html-resume-template
-Made for those who don't like LaTeX or only want to edit a config without the hassle of starting from scratch.
+Made for those who don't like LaTeX or only want to edit a config without the hassle of designing a resume layout.
 
 ## Demo
 ![Demo](./demo.gif)
