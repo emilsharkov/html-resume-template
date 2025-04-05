@@ -1,6 +1,9 @@
 # html-resume-template
 Made for those who don't like LaTeX or only want to edit a config without the hassle of starting from scratch.
 
+## Demo
+![Demo](./demo.gif)
+
 ## Quick Start
 1. Clone the template with ```git clone --depth=1 https://github.com/emilsharkov/html-resume-template <YOUR_PROJECT_NAME>```
 2. Navigate to your new project with ```cd <YOUR_PROJECT_NAME>```
